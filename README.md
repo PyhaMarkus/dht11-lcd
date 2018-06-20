@@ -13,11 +13,11 @@
 | 1        | A small breadboard                    |
 | A lot    | Jumper wire                           |
 
+![alt text](https://github.com/PyhaMarkus/dht11-lcd/blob/master/pictures/raspberrypi_LCD.png "Connections")
+
 ### Libraries used:
 * time
 * sys
 * Adafruit_CharLCD
 * Adafruit_DHT
 * RPi.GPIO
-
-![alt text](https://github.com/PyhaMarkus/dht11-lcd/blob/master/pictures/raspberrypi_LCD.png "Connections")
