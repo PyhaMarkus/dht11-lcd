@@ -10,6 +10,12 @@
 * A large and a small breadboard
 * Jumper wires
 
+| Quantity | Part          |
+| -------- |:-------------:|
+| 1        | Raspberry Pi 3 Model B |
+| 1        | DHT11 temperature and humidity sensor      |
+| zebra str| are neat      |
+
 ### Libraries used:
 * time
 * sys
