@@ -1,6 +1,6 @@
 # Display DHT11 temperature and humidity sensor data on an lcd with the Raspberry Pi 3.
 
-## Parts used:
+### Parts used:
 * Raspberry Pi 3 Model B
 * DHT11 temperature and humidity sensor
 * 1602 LCD-screen with 16 pins
