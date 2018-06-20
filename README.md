@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/PyhaMarkus/dht11-lcd/blob/master/pictures/raspberrypi_LCD.png "Connections")
 
+---
+
 ### Parts used:
 | Quantity | Part                                  |
 | -------- |:-------------:                        |
