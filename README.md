@@ -15,6 +15,8 @@
 | 1        | A small breadboard                    |
 | A lot    | Jumper wire                           |
 
+---
+
 ### Libraries used:
 * time
 * sys
