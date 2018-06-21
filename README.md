@@ -1,6 +1,6 @@
 # Display DHT11 temperature and humidity sensor data on an lcd with the Raspberry Pi 3.
 
-![alt text](https://github.com/PyhaMarkus/dht11-lcd/blob/master/pictures/raspberrypi_LCD.png "Connections")
+![alt text](https://github.com/PyhaMarkus/dht11-lcd/blob/master/pictures/raspberrypi_lcd.png "Connections")
 
 ---
 
