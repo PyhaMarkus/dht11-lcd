@@ -28,9 +28,9 @@
 
 ---
 
-### Installation
+### Installation:
 
-*Installing Adafruit DHT libary*
+**Installing Adafruit DHT libary**
 
 `sudo apt-get update
 sudo apt-get install git
@@ -39,11 +39,16 @@ cd Adafruit_Python_DHT
 sudo apt-get install build-essential python-dev
 sudo python setup.py install`
 
-*Installing RPLCD library*
+**Installing RPLCD library**
 
 `sudo apt-get install python-pip
 sudo pip install RPLCD`
 
-*Run the python code*
+**Download and run the python code**
+
+`git clone https://github.com/PyhaMarkus/dht11-lcd.git
+cd dht11-lcd`
+
+Make any necessary changes to the code and then run with:
 
 `python dht11_lcd.py`
