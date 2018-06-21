@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Display DHT11 temperature and humidity sensor data on an LCD with the Raspberry Pi 3.
+# Display DHT11 temperature and humidity sensor data on an LCD with the Raspberry Pi 3
 # Markus Pyhäranta 2018.
 
 #Import libraries
@@ -19,10 +19,11 @@ lcd_d6 = 5
 lcd_d7 = 11
 lcd_backlight = 2
 
-# Define LCD column and row size for 16x2 LCD.
+# Define LCD column and row size for 16x2 LCD
 lcd_columns = 16
 lcd_rows = 2
 
+# Initialize the pins by calling a class
 lcd = LCD.Adafruit_CharLCD(lcd_rs, lcd_en, lcd_d4, lcd_d5, lcd_d6, lcd_d7, lcd_columns, lcd_rows, lcd_backlight)
 
 #Set the naming convention for pins. Refer to pins with their names e.g GPIO23 and not the physical number of the pin.
