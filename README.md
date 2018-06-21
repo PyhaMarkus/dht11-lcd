@@ -32,18 +32,18 @@
 
 *Installing Adafruit DHT libary*
 
-sudo apt-get update
+`sudo apt-get update
 sudo apt-get install git
 git clone https://github.com/adafruit/Adafruit_Python_DHT.git
 cd Adafruit_Python_DHT
 sudo apt-get install build-essential python-dev
-sudo python setup.py install
+sudo python setup.py install`
 
 *Installing RPLCD library*
 
-sudo apt-get install python-pip
-sudo pip install RPLCD
+`sudo apt-get install python-pip
+sudo pip install RPLCD`
 
 *Run the python code*
 
-python dht11_lcd.py
+`python dht11_lcd.py`
