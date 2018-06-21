@@ -5,7 +5,7 @@
 ---
 
 ### Parts used:
-| Quantity | Part                                  |
+| Quantity | Part name                             |
 | -------- |:-------------:                        |
 | 1        | Raspberry Pi 3 Model B                |
 | 1        | DHT11 temperature and humidity sensor |
