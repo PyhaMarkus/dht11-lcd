@@ -59,3 +59,8 @@ Make any necessary changes to the code and then run with:
 ```
 python dht11_lcd.py
 ```
+---
+
+### Sources used:
+http://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-the-raspberry-pi/
+https://pimylifeup.com/raspberry-pi-lcd-16x2/
